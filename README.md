@@ -18,3 +18,22 @@ ArchiLDCustom is the software version for the analysis of LD in custom genotypic
 
 [Download ArchiLD for Linux 32 bit](https://github.com/bernettlee/archild/raw/master/ArchiLDCustomLinux32.zip)
 
+[Download ArchiLD for Linux 64 bit](https://github.com/bernettlee/archild/raw/master/ArchiLDCustomLinux64.zip)
+
+[Download ArchiLD for Mac OS](https://github.com/bernettlee/archild/raw/master/ArchiLDCustomMacOS.zip)
+
+[Download ArchiLD Source Code (GPL)](https://github.com/bernettlee/archild/raw/master/ArchiLDCustom.zip)
+
+## Paper
+
+ArchiLD: hierarchical visualization of linkage disequilibrium in human populations
+Rossella Melchiotti, Olaf Rotzschke, Michael Poidinger
+PLoS One. 2014 Jan 21;9(1):e86761
+[PMID:24466224](https://www.ncbi.nlm.nih.gov/pubmed/24466224)
+
+## Contact
+
+Singapore Immunology Network (SIgN)
+8A Biomedical Grove, Immunos Building, Level 4
+Singapore 138648
+bernett_lee@immunol.a-star.edu.sg
